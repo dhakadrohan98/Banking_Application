@@ -13,3 +13,11 @@ This project is a simple offline banking application implemented in Core Java. I
 - **Withdrawal:** Users can withdraw funds from their accounts, with appropriate validations to ensure sufficient balance.
 
 - **Balance Inquiry:** Account holders can check their account balance at any time.
+
+- ## **License**
+
+This project is licensed under the [MIT License](LICENSE.md).
+
+## **Contact**
+
+For any questions or concerns, please contact [Rohan Dhakad] at [rohandhakad20@gmail.com].
