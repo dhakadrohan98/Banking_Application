@@ -20,4 +20,4 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## **Contact**
 
-For any questions or concerns, please contact [Rohan Dhakad] at [rohandhakad20@gmail.com].
+For any questions or concerns, please contact Rohan Dhakad at rohandhakad20@gmail.com.
